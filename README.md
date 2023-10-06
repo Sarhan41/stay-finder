@@ -8,7 +8,7 @@ You can access the live demo of this website [here](https://stay-find.vercel.app
 
 ## Technologies Used
 
-This Hotel Booking Website is built using modern web technologies:
+This Hotel Finding Website is built using modern web technologies:
 
 - **React**: The core framework used for building the user interface and managing application state.
 
