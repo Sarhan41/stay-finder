@@ -1,6 +1,6 @@
 # Hotel Finding Website
 
-Welcome to the Hotel Booking Website project! This web application allows users to search for hotels, view detailed information about each hotel, and make reservations. Users can explore different cities and browse through available hotel listings.
+Welcome to the Hotel Finding Website project! This web application allows users to search for hotels according to city name and view detailed information about each hotel, . Users can explore different cities and browse through available hotel listings.
 
 ## Live Demo
 
@@ -22,7 +22,7 @@ This Hotel Booking Website is built using modern web technologies:
 
 ## Features
 
-- **Hotel Search**: Users can search for hotels by selecting a city name in the navigation bar.
+- **Hotel Search**: Users can search for hotels by selecting a city name through available hotel listings.
 
 - **Detailed Hotel Information**: Clicking on a hotel card displays detailed information about the hotel, including hotel description, prices, and amenities.
 
