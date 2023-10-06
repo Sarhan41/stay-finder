@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #e5e5e5;
+}
+body::-webkit-scrollbar {
+  display: none; 
+}
+
+body {
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+}
+
+.flex-start {
+  @apply flex justify-start items-start;
+}
+.flex-center {
+  @apply flex justify-center items-center;
+}
+.flex-between {
+  @apply flex justify-between items-center;
+}
+
+.flex-end {
+  @apply flex justify-end items-center;
+}
